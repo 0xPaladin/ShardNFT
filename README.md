@@ -5,6 +5,8 @@ Claim your own, or many. No max supply. Cost will always be less than $1.
 
 Only available on the following networks: EVMOS
 
+Simple web interface: https://0xpaladin.github.io/ShardNFT/
+
 ## Deployed Contracts
 
 ### EVMOS
